@@ -7,7 +7,7 @@ import numpy as np
 import os
 import pandas as pd
 
-def model(dir, depth, trees, l_r, col_s, sub_s, min_c, number_of_features, ranking_file_name, number_of_algs):
+def model(dir, depth, trees, l_r, col_s, sub_s, min_c, number_of_features, training_file_name, number_of_algs, clustering_measure):
     dataset_name_col = 'dataset'
     target_col = "performance"
     alg_col = "alg"
