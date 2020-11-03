@@ -73,8 +73,6 @@ def computation(path):
     cos = cosine_similarity(principalComponents)
     G = buildGraph(cos, f_name)
     print(f_name)
-    os.mkdir(EdgeLists_folder)
-    os.mkdir(NodesEmbedding_folder)
     path_in= os.path.join(EdgeLists_folder, f_name)
     path_out = os.path.join(NodesEmbedding_folder, f_name)
     subprocess.call("deepwalk --input " +path_in +".file --format weighted_edgelist --output " + path_out +".file")
