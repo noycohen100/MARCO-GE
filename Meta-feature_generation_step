@@ -190,4 +190,3 @@ def graphClassification(datasets_folder, EdgeLists_folder, NodesEmbedding_folder
         print('Accuracy of argmax predictions on the test set: {:4f}%'.format(
             (test_Y == argmax_Y.float()).sum().item() / len(test_Y) * 100))
         break
-graphClassification(datasets_folder, EdgeLists_folder, NodesEmbedding_folder, number_of_epochs, embedding_size, num_classes, clustering_index, labels_file)
