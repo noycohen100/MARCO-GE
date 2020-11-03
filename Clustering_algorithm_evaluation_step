@@ -148,7 +148,7 @@ def saveLabels(dataset_name, alg_name, labels):
     pickle.dump(labels, open(save_path + ".clusters", 'wb'))
 
 
-def write_measures(filename):
+def write_measures(filename, clustering_measure):
     dataframe = pd.read_csv(filename)
     dataframe = preprocess(dataframe)
     f_name = filename.split('\\')[-1].split('.')[0]
@@ -182,9 +182,11 @@ def write_measures(filename):
         # saveLabels(f_name, alg, label)
         print(f_name+"finish " +alg)
     ####################################################
-    final_ranking = get_average_ranking(measures, f_name, True) # combines the values of the internal indices by average ranking.
+    if clustering_measure == "average":
+        final_ranking = get_average_ranking(measures, f_name, True) # combines the values of the internal indices by average ranking.
+    else:
     # For getting the results of each index:
-    #get_rankings_per_index_final(measures, f_name)
+        get_rankings_per_index_final(measures, f_name)
 
     return measure
 
@@ -197,9 +199,9 @@ def get_dataframes(datasets_folder):
                      for file in glob(os.path.join(path, EXT))]
     return all_csv_files
 
-def Clustering_algorithm_evaluation(datasets_folder):
+def Clustering_algorithm_evaluation(datasets_folder, clustering_measure):
     dataframes = get_dataframes(dir)
     for file in dataframes:
-        write_measures(file)
+        write_measures(file, clustering_measure)
 
 
