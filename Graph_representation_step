@@ -14,8 +14,7 @@ from multiprocessing import Pool
 import subprocess
 
 
-EdgeLists_folder = "EdgeLists"
-NodesEmbedding_folder = "nodeEmbeddings"
+
 
 #Pre processing according to the Clustering Meta-Learning paper
 def preprocess(df):
