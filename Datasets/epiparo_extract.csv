@@ -1,0 +1,225 @@
+f1,f2,f3,f4,f5,f6,f7,f8,f9,f10,f11,f12,f13,f14,f15,f16,f17,f18,f19
+Femme,56,26.9,'Ancien fumeur plus de 6 mois',Non,Jamais,Occasionnellement,Jamais,'Plusieurs fois par semaine',Jamais,2,5,2,15,0.67,0.89,1,Absente,Oui
+Femme,61,21.2,'Ancien fumeur plus de 6 mois',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',3,5,7,20,2,1.53,1,Absente,Non
+Femme,8,14.7,'Non fumeur',Oui,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Jamais,'2 3 fois par an',2,4,12,0,0,0,1,Absente,Non
+Homme,22,21.1,'Non fumeur',Non,'Plusieurs fois par semaine',Jamais,'Plusieurs fois par semaine','Plusieurs fois par semaine','1 fois par an',3,2,4,1,0,0,0,Absente,Non
+Femme,23,19.1,'Non fumeur',Non,'Une fois par jour','Plusieurs fois par semaine',Jamais,Occasionnellement,Regulierement,2,5,4,1,0,0,0,Absente,Non
+Homme,39,25.5,'Non fumeur',Non,'Plusieurs fois par jour','Plusieurs fois par semaine',Occasionnellement,'Plusieurs fois par jour','1 fois par an',2,3,0,3,1,0.25,1,Absente,Non
+Homme,38,28.4,'Ancien fumeur plus de 6 mois',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',4,7,4,0,1.33,1.31,1,Absente,Oui
+Femme,73,24,'Non fumeur',Oui,Jamais,Jamais,Jamais,Jamais,'1 fois par an',6,5,8,7,1,0.89,0,Absente,Non
+'Jeune fille',8,13.7,'Non fumeur',Non,'Plusieurs fois par jour','Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,'1 fois par an',2,5,11,2,0.33,0,2,Absente,Non
+Femme,23,18.2,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Occasionnellement,'2 3 fois par an',3,5,4,1,0,0,0,Absente,Non
+Homme,7,16.7,'Non fumeur',Non,Occasionnellement,Occasionnellement,Occasionnellement,Jamais,'1 fois par an',1,2,9,1,1,0,2,Absente,Non
+'Jeune fille',10,17.6,'Non fumeur',Non,'Une fois par jour',Occasionnellement,'Plusieurs fois par jour',Jamais,Regulierement,1,8,8,8,1.67,0,1,Provoquees,Oui
+'Jeune fille',9,17.6,'Non fumeur',Non,'Une fois par jour',Occasionnellement,'Plusieurs fois par jour',Jamais,Regulierement,1,8,8,9,1.5,0,2,Provoquees,Oui
+'Jeune fille',12,18.1,'Non fumeur',Oui,'Plusieurs fois par semaine',Occasionnellement,'Une fois par jour',Jamais,'2 3 fois par an',1,5,8,0,0.33,0,1,Absente,Non
+'Jeune fille',6,17.4,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,'Plusieurs fois par semaine',Jamais,Regulierement,1,8,14,3,1,,3,Absente,Non
+'Jeune fille',9,17.6,'Non fumeur',Non,'Plusieurs fois par jour','Une fois par jour','Une fois par jour',Jamais,'2 3 fois par an',3,9,10,3,0,,2,,Oui
+Homme,9,12.1,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',2,1,8,4,0.25,,1,Provoquees,Non
+Homme,9,14.9,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',2,1,8,4,0.33,,1,Provoquees,Non
+Femme,21,22.9,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Jamais,Jamais,'2 3 fois par an',3,7,4,1,1,,0,Provoquees,Non
+Femme,44,20.3,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',2,7,4,8,1.67,1.19,2,Provoquees,Non
+Homme,10,17.9,'Non fumeur',Non,Occasionnellement,'Plusieurs fois par jour','Une fois par jour',Jamais,'2 3 fois par an',2,1,11,5,0,,2,Absente,Non
+Homme,12,16,'Non fumeur',Non,Occasionnellement,'Plusieurs fois par semaine','Plusieurs fois par jour',Jamais,'1 fois par an',1,1,6,0,1.33,1,2,Provoquees,Oui
+'Jeune fille',10,18.6,'Non fumeur',Non,'Une fois par jour','Une fois par jour',Occasionnellement,Jamais,'1 fois par an',1,2,5,3,1,,2,Provoquees,Oui
+'Jeune fille',12,937.5,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Plusieurs fois par semaine',Jamais,Regulierement,2,3,5,10,2,,3,Provoquees,Non
+Femme,70,25.6,'Non fumeur',Non,Jamais,Jamais,Jamais,'Une fois par jour','1 fois par an',1,7,21,1,,1.5,2,Absente,Oui
+Homme,12,15.8,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',1,8,4,0,2,,2,Provoquees,Non
+'Jeune fille',10,15.9,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',2,5,6,0,0.33,,0,Absente,Non
+Homme,69,25.1,'Ancien fumeur plus de 6 mois',Oui,'Plusieurs fois par jour',Jamais,Jamais,'Une fois par jour','1 fois par an',2,2,3,10,1.17,1.58,1,Absente,Oui
+Femme,67,21.1,'Ancien fumeur plus de 6 mois',Oui,'Plusieurs fois par semaine',Jamais,Jamais,Occasionnellement,,2,7,7,15,1.33,2.6,1,Provoquees,Oui
+Homme,69,25.1,'Ancien fumeur plus de 6 mois',Oui,'Plusieurs fois par jour',Jamais,Jamais,'Une fois par jour','1 fois par an',2,2,3,10,1.17,2.71,1,Absente,Oui
+Femme,23,20.8,'Non fumeur',Non,'Plusieurs fois par jour','Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine',Regulierement,3,4,4,1,0,,0,Absente,Non
+Homme,28,23.7,'Non fumeur',Oui,'Une fois par jour','Plusieurs fois par semaine','Plusieurs fois par semaine',Occasionnellement,'1 fois par an',3,6,4,2,,,0,Absente,Non
+Femme,14,18.8,'Non fumeur',Non,Occasionnellement,Occasionnellement,Occasionnellement,Jamais,Regulierement,3,2,4,1,0.67,,2,Absente,Oui
+Femme,13,15.6,'Non fumeur',inconnu,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',3,4,4,4,1.5,,2,Provoquees,Oui
+'Jeune fille',10,14.8,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',2,6,8,0,2,1.5,2,Provoquees,Non
+Femme,37,22.9,'Non fumeur',Oui,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Jamais,'2 3 fois par an',3,1,4,7,1,0.08,2,Provoquees,Non
+'Jeune fille',7,17.4,'Non fumeur',Oui,'Une fois par jour',Occasionnellement,'Une fois par jour',Jamais,Regulierement,2,6,1,8,,,0,Absente,Non
+Homme,24,20,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Plusieurs fois par jour',Occasionnellement,Jamais,3,5,0,2,0,,1,Absente,Non
+Homme,25,22.9,'Actuel fumeur',Non,'Une fois par jour',Occasionnellement,Occasionnellement,'Plusieurs fois par semaine',Jamais,1,5,2,0,1.83,,1,Provoquees,Oui
+Femme,18,21,'Actuel fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,2,6,2,0,,,1,Absente,Oui
+Homme,22,20.2,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Une fois par jour',Occasionnellement,Jamais,2,3,0,0,0,,2,Absente,Non
+Femme,15,20.8,'Non fumeur',Non,'Une fois par jour','Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,Regulierement,3,1,4,18,1.83,,0,Absente,Oui
+Femme,42,19.1,'Non fumeur',Oui,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',3,7,8,1,1.33,1.3,0,Absente,Oui
+Femme,61,25.2,'Non fumeur',Non,Occasionnellement,Occasionnellement,Jamais,Occasionnellement,'2 3 fois par an',6,2,4,14,1,1.27,0,Provoquees,Oui
+Homme,64,26,'Ancien fumeur plus de 10 ans',Oui,'Plusieurs fois par semaine',Occasionnellement,Jamais,'Plusieurs fois par semaine','2 3 fois par an',2,4,2,12,1.67,1.44,2,Provoquees,Oui
+Homme,47,19,'Non fumeur',Oui,'Une fois par jour','Plusieurs fois par semaine','Une fois par jour',Occasionnellement,'1 fois par an',1,5,0,14,1.17,,2,Absente,Oui
+Homme,11,15.8,'Non fumeur',Non,'Une fois par jour','Une fois par jour','Une fois par jour',Jamais,Regulierement,3,4,3,12,0,,1,Provoquees,Non
+Femme,15,17.6,'Non fumeur',Non,'Une fois par jour',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',2,5,4,0,0.67,0,1,Provoquees,Non
+Femme,39,25.4,'Non fumeur',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',2,3,4,9,0.67,0.78,0,Provoquees,Non
+Femme,24,21.3,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine','Une fois par jour','Plusieurs fois par semaine','1 fois par an',2,8,0,0,0,2,0,Absente,Non
+Homme,12,18.1,'Non fumeur',Non,'Plusieurs fois par jour','Plusieurs fois par jour','Plusieurs fois par jour',Jamais,Jamais,0,1,0,10,1.5,,3,Absente,Non
+Homme,63,24.7,'Ancien fumeur plus de 10 ans',Oui,'Une fois par jour',Occasionnellement,Jamais,'Une fois par jour','1 fois par an',2,3,0,18,0.83,1.65,2,Absente,Oui
+Femme,48,23.4,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine',Occasionnellement,'Plusieurs fois par semaine','1 fois par an',2,3,2,19,1.5,1.47,0,Provoquees,Non
+Homme,4,15,'Non fumeur',Non,'Une fois par jour',Occasionnellement,'Une fois par jour',Jamais,'1 fois par an',2,4,12,8,0,,0,Absente,Non
+'Jeune fille',11,13.7,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Une fois par jour',Jamais,'2 3 fois par an',2,1,10,7,1.67,,3,Provoquees,Oui
+Femme,46,21.1,'Ancien fumeur plus de 6 mois',Non,'Plusieurs fois par semaine',Occasionnellement,'Une fois par jour',Occasionnellement,'1 fois par an',4,3,6,10,1.67,2,3,Absente,Oui
+Femme,12,18,'Non fumeur',Non,'Plusieurs fois par jour','Une fois par jour','Plusieurs fois par jour',Occasionnellement,Regulierement,1,3,10,4,0,,1,Absente,Non
+Femme,22,22.2,'Non fumeur',Oui,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,'Plusieurs fois par semaine','1 fois par an',2,7,0,0,1.17,,1,Provoquees,Non
+Homme,59,30,'Non fumeur',Oui,Occasionnellement,Occasionnellement,Occasionnellement,'Plusieurs fois par semaine','1 fois par an',2,8,4,8,1.67,1.19,1,Provoquees,Oui
+Homme,45,26.5,'Non fumeur',Non,Occasionnellement,'Plusieurs fois par semaine',Occasionnellement,'Une fois par jour',Regulierement,3,3,5,10,1.17,1.13,1,Provoquees,Oui
+Femme,14,23.9,'Non fumeur',Non,'Une fois par jour','Plusieurs fois par semaine',Occasionnellement,Jamais,'1 fois par an',2,5,2,0,0,0.08,1,Provoquees,Non
+Homme,35,35,'Ancien fumeur plus de 2 ans',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',3,6,2,5,1.83,,1,Spontanees,Oui
+Homme,37,27.8,'Non fumeur',Oui,'Une fois par jour','Une fois par jour','Plusieurs fois par jour',Jamais,Jamais,2,1,0,7,1.83,,2,Provoquees,Oui
+Homme,48,20.5,'Ancien fumeur plus de 2 ans',Non,Occasionnellement,Occasionnellement,'Plusieurs fois par semaine',Occasionnellement,'1 fois par an',2,6,5,8,1.5,,2,Absente,Non
+Femme,50,26,'Ancien fumeur plus de 2 ans',Oui,Jamais,Jamais,Jamais,Jamais,,6,9,7,0,1.33,2.24,1,Absente,Non
+Femme,60,19.4,'Non fumeur',Non,Occasionnellement,Occasionnellement,Jamais,Occasionnellement,'2 3 fois par an',1,5,5,0,1.67,2.13,0,Provoquees,Non
+Femme,35,21.5,'Ancien fumeur plus de 2 ans',Oui,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Occasionnellement,'2 3 fois par an',3,7,4,0,1.83,,0,Spontanees,Non
+'Jeune fille',6,14,'Non fumeur',inconnu,'Plusieurs fois par semaine',Occasionnellement,'Plusieurs fois par semaine',Jamais,'1 fois par an',2,2,12,5,0,,0,Absente,Non
+'Jeune fille',10,14.2,'Non fumeur',Non,Occasionnellement,Jamais,'Une fois par jour',Jamais,Regulierement,2,6,4,3,0,,2,Absente,Oui
+'Jeune fille',7,15.6,'Non fumeur',Non,Occasionnellement,Occasionnellement,Jamais,Jamais,Regulierement,2,4,8,4,0,,1,Absente,Non
+Femme,26,42,'Actuel fumeur',Non,'Une fois par jour','Une fois par jour',Occasionnellement,'Plusieurs fois par semaine','1 fois par an',2,4,4,8,0.67,0.06,1,Absente,Oui
+Homme,24,24,'Actuel fumeur',Non,Occasionnellement,Jamais,Occasionnellement,'Plusieurs fois par semaine','1 fois par an',4,6,4,0,0,,0,Absente,Non
+Femme,13,13.7,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par jour','Plusieurs fois par jour',Jamais,'1 fois par an',1,8,5,4,0,,2,Absente,Oui
+Homme,21,22.2,'Actuel fumeur',Oui,'Plusieurs fois par jour','Une fois par jour','Plusieurs fois par jour','Plusieurs fois par semaine',Jamais,1,1,0,5,1.33,0,2,Spontanees,Oui
+Homme,8,14.8,'Non fumeur',Non,Occasionnellement,Occasionnellement,'Plusieurs fois par jour',Jamais,Regulierement,2,6,3,11,0,,2,Absente,Oui
+Homme,52,24.8,'Non fumeur',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',2,1,0,0,1.83,1.57,1,Provoquees,Oui
+Homme,12,14.2,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,Occasionnellement,Jamais,Regulierement,3,1,10,4,0,3,1,Absente,Non
+Femme,24,22.8,'Non fumeur',Non,Occasionnellement,Occasionnellement,Jamais,'Plusieurs fois par semaine','1 fois par an',3,6,4,2,0,,1,Absente,Non
+Homme,52,24.8,'Non fumeur',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',3,1,0,0,1.83,1.57,2,Provoquees,Oui
+Femme,14,21.3,'Non fumeur',Non,Occasionnellement,Occasionnellement,Occasionnellement,Jamais,'1 fois par an',1,8,4,8,1.5,0,2,Provoquees,Oui
+Femme,14,21.3,'Non fumeur',Non,Occasionnellement,Occasionnellement,Occasionnellement,Jamais,'1 fois par an',1,8,4,8,1.67,,2,Provoquees,Oui
+Homme,6,14.6,'Non fumeur',inconnu,'Plusieurs fois par semaine','Plusieurs fois par semaine','Une fois par jour',Jamais,Jamais,2,7,12,2,0,,0,Absente,Non
+Femme,66,37,'Actuel fumeur',Oui,'Une fois par jour','Une fois par jour',Occasionnellement,Occasionnellement,'2 3 fois par an',4,6,0,12,0,,1,Provoquees,Oui
+Homme,52,25.5,'Actuel fumeur',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,Jamais,2,8,10,15,,,,Provoquees,Oui
+Homme,8,18.6,'Non fumeur',Non,'Plusieurs fois par jour','Plusieurs fois par jour','Plusieurs fois par semaine',Jamais,Regulierement,2,6,3,4,0,,2,Provoquees,Non
+'Jeune fille',10,12.4,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,Occasionnellement,Jamais,,2,3,7,0,1.17,0,1,Spontanees,Oui
+Femme,13,15.6,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',2,4,5,2,2,0,1,Provoquees,Oui
+Femme,54,32,'Non fumeur',Oui,'Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine',,0,1,4,12,0,2.4,3,Absente,Oui
+'Jeune fille',5,18,'Non fumeur',Non,Occasionnellement,Occasionnellement,'Plusieurs fois par semaine',Jamais,'2 3 fois par an',2,6,9,2,0,,2,Absente,Oui
+Femme,21,24.9,'Non fumeur',Non,'Une fois par jour','Une fois par jour','Une fois par jour',Jamais,'1 fois par an',2,7,0,3,1,0,2,'Correlees',Non
+Femme,21,26.4,'Non fumeur',Non,'Une fois par jour',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',3,8,6,11,0,,0,'Correlees',Non
+Homme,70,29.9,'Ancien fumeur plus de 2 ans',Oui,Occasionnellement,Occasionnellement,Jamais,'Plusieurs fois par jour','2 3 fois par an',2,4,6,16,1.17,2,3,Provoquees,Oui
+Homme,26,20.9,'Actuel fumeur',Non,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,Jamais,2,1,1,14,2,,2,Provoquees,Oui
+Homme,57,26.4,'Actuel fumeur',Oui,Occasionnellement,Occasionnellement,Occasionnellement,'Une fois par jour','1 fois par an',2,4,7,12,0.67,0.61,2,Provoquees,Oui
+Homme,12,15.6,'Non fumeur',Non,'Une fois par jour',Occasionnellement,Jamais,Jamais,Regulierement,3,5,7,4,0,,1,Absente,Non
+Homme,67,27.4,'Non fumeur',Oui,Occasionnellement,Jamais,Jamais,Jamais,'1 fois par an',1,1,6,14,0.67,1,2,Provoquees,Oui
+Homme,62,27.8,'Actuel fumeur',Oui,Occasionnellement,'Une fois par jour',Occasionnellement,'Une fois par jour','1 fois par an',4,3,7,9,1.67,0.25,2,Provoquees,Oui
+Homme,9,20.4,'Non fumeur',inconnu,'Plusieurs fois par semaine',Occasionnellement,'Plusieurs fois par semaine',Jamais,Regulierement,3,2,0,0,1,,2,Absente,Oui
+Homme,8,15.8,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Jamais,'2 3 fois par an',2,3,0,3,0,0,1,Absente,Non
+Homme,12,16.7,'Non fumeur',Oui,'Plusieurs fois par jour','Plusieurs fois par jour','Plusieurs fois par semaine',Jamais,'2 3 fois par an',2,5,1,5,1.33,,3,Provoquees,Oui
+Homme,12,11.7,'Non fumeur',Non,'Une fois par jour',Occasionnellement,'Une fois par jour',Jamais,Jamais,3,3,1,3,0,,2,Absente,Non
+'Jeune fille',9,14.3,'Non fumeur',Non,Occasionnellement,Jamais,'Plusieurs fois par semaine',Jamais,'1 fois par an',3,5,3,1,0,,2,Absente,Non
+Femme,72,28.3,'Non fumeur',Oui,Occasionnellement,Jamais,Jamais,Jamais,Jamais,1,4,16,10,0,1.72,2,Absente,Oui
+Femme,70,29.8,'Non fumeur',Oui,Occasionnellement,Jamais,Jamais,Jamais,'1 fois par an',1,2,3,5,1.5,3.08,3,Spontanees,Oui
+Femme,33,28.5,'Non fumeur',Non,'Une fois par jour',Occasionnellement,Occasionnellement,Jamais,'2 3 fois par an',2,1,0,0,0,,0,Absente,Non
+Femme,49,24.6,'Non fumeur',Oui,Occasionnellement,Occasionnellement,Jamais,Jamais,'1 fois par an',3,8,3,18,1.33,2,1,Provoquees,Oui
+Femme,22,24,'Non fumeur',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',3,7,4,2,0,0.31,0,Absente,Non
+Femme,54,28.5,'Actuel fumeur',Non,Jamais,Occasionnellement,Jamais,Occasionnellement,'1 fois par an',3,5,8,12,0.67,2.09,1,Absente,Non
+Femme,22,20.1,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',2,,4,1,0,0.03,0,Absente,Non
+'Jeune fille',6,19.4,'Non fumeur',Non,'Plusieurs fois par jour','Plusieurs fois par jour','Plusieurs fois par jour',Jamais,Jamais,2,7,0,3,0,,1,Absente,Non
+'Jeune fille',10,19.2,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,'1 fois par an',2,2,1,1,0,,2,Absente,Non
+Homme,6,13.6,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Jamais,Jamais,'1 fois par an',2,5,0,4,0,,1,Absente,Non
+'Jeune fille',9,18.3,'Non fumeur',Non,'Plusieurs fois par jour','Plusieurs fois par semaine',Occasionnellement,Jamais,'1 fois par an',1,4,1,6,0,,1,Provoquees,Non
+Femme,65,25,'Ancien fumeur plus de 2 ans',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Jamais,'2 3 fois par an',5,6,5,13,0,1.88,0,Provoquees,Non
+Femme,25,24,'Non fumeur',inconnu,'Plusieurs fois par jour','Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Jamais,3,7,4,11,0,0.11,0,Absente,Non
+'Jeune fille',9,14.8,'Non fumeur',Non,Jamais,Occasionnellement,Jamais,Jamais,Regulierement,2,2,5,11,0,,2,Absente,Oui
+'Jeune fille',11,18.8,'Non fumeur',Oui,'Plusieurs fois par jour',Occasionnellement,'Plusieurs fois par jour',Jamais,,2,6,4,1,0,,1,Absente,Non
+Homme,20,25,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Jamais,Jamais,2,3,2,1,1,0.78,2,Absente,Oui
+Homme,6,20,'Non fumeur',Non,'Une fois par jour',Occasionnellement,'Plusieurs fois par semaine',Jamais,'1 fois par an',1,2,4,2,0,,1,Absente,Non
+Homme,3,17.3,'Non fumeur',Oui,'Une fois par jour',Occasionnellement,'Plusieurs fois par jour',Jamais,Jamais,1,3,4,7,0.67,,0,Absente,Non
+'Jeune fille',9,13.9,'Non fumeur',Non,'Plusieurs fois par jour','Plusieurs fois par semaine','Une fois par jour',Jamais,Jamais,1,3,4,5,0.67,,1,Absente,Non
+'Jeune fille',7,17.4,'Non fumeur',Non,'Une fois par jour','Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,Jamais,2,5,5,5,0,,1,Absente,Non
+Femme,65,21.8,'Ancien fumeur plus de 10 ans',Non,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'2 3 fois par an',2,2,8,16,0.17,2.18,1,Absente,Non
+Femme,49,27.9,'Ancien fumeur plus de 10 ans',Oui,'Plusieurs fois par jour','Plusieurs fois par semaine','Plusieurs fois par jour','Plusieurs fois par semaine',Jamais,2,10,4,3,1.33,1.94,2,Provoquees,Oui
+'Jeune fille',11,16,'Non fumeur',Oui,'Plusieurs fois par semaine','Plusieurs fois par semaine','Une fois par jour',Jamais,'1 fois par an',2,4,8,0,1.83,0.06,2,Absente,Oui
+Femme,71,22.8,'Non fumeur',Oui,Jamais,Jamais,Jamais,Jamais,'2 3 fois par an',6,4,0,5,0,1.07,1,Absente,Non
+Homme,24,27,'Non fumeur',Oui,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',2,8,4,1,0,1,2,Provoquees,Oui
+Homme,7,17.4,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Plusieurs fois par jour',Jamais,'1 fois par an',2,3,12,7,0,,0,Absente,Non
+'Jeune fille',6,14.6,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Jamais,Regulierement,3,3,3,9,0,,1,Absente,Non
+Homme,5,13.2,'Non fumeur',Non,'Une fois par jour',Occasionnellement,'Une fois par jour',Jamais,Regulierement,2,3,2,0,0,,0,Absente,Non
+Femme,50,32,'Ancien fumeur plus de 6 mois',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'2 3 fois par an',2,8,11,10,0.33,1.25,3,Absente,Oui
+Homme,6,19,'Non fumeur',Non,'Plusieurs fois par jour','Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,'1 fois par an',1,5,4,0,0,,1,Absente,Non
+Homme,4,31.3,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,Jamais,1,3,12,5,0,,1,Absente,Oui
+'Jeune fille',9,23.1,'Non fumeur',Non,Occasionnellement,'Plusieurs fois par semaine','Une fois par jour',Jamais,Jamais,2,5,8,7,0.67,,2,Provoquees,Non
+'Jeune fille',8,16,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine',Occasionnellement,Jamais,Regulierement,1,5,10,6,0,,2,Absente,Non
+Femme,46,23.4,'Non fumeur',Non,'Plusieurs fois par semaine',Jamais,Jamais,Jamais,'1 fois par an',3,5,2,13,1,1.94,2,Provoquees,Oui
+Homme,2,17.2,'Non fumeur',Non,'Plusieurs fois par semaine',Jamais,Occasionnellement,Jamais,'1 fois par an',2,2,12,6,0,,3,Absente,Oui
+'Jeune fille',7,17.4,'Non fumeur',Non,Jamais,Occasionnellement,'Une fois par jour',Jamais,'1 fois par an',2,4,9,3,1.67,,2,Provoquees,Non
+Homme,6,15,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par jour','Une fois par jour',Jamais,Regulierement,1,6,9,8,0,,2,Absente,Non
+'Jeune fille',7,18.1,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,'1 fois par an',1,3,8,9,1,,1,Provoquees,Non
+Homme,10,16,'Non fumeur',Non,'Une fois par jour',Occasionnellement,Occasionnellement,Jamais,Regulierement,2,4,9,0,0,,2,Absente,Non
+Homme,11,15.8,'Non fumeur',Oui,'Une fois par jour',Occasionnellement,Occasionnellement,Jamais,Regulierement,2,1,8,2,0,,1,Absente,Non
+Homme,7,16.8,'Non fumeur',Non,'Une fois par jour',Occasionnellement,Occasionnellement,Jamais,Regulierement,2,1,8,4,1.33,,2,Absente,Non
+Femme,62,23.9,'Non fumeur',Oui,'Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine','1 fois par an',3,4,6,14,1.5,1.94,3,Absente,Oui
+Homme,10,16.8,'Non fumeur',Oui,'Plusieurs fois par jour','Plusieurs fois par semaine','Plusieurs fois par jour',Jamais,'1 fois par an',0,5,8,0,1.33,,2,Absente,Non
+Homme,10,16.8,'Non fumeur',Oui,'Plusieurs fois par jour','Plusieurs fois par semaine','Plusieurs fois par jour',Jamais,'1 fois par an',1,5,7,0,0.67,,3,Absente,Non
+'Jeune fille',5,15.3,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,'Plusieurs fois par jour',Jamais,'1 fois par an',1,2,0,2,0,,0,Absente,Non
+'Jeune fille',4,20,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Plusieurs fois par jour',Jamais,'1 fois par an',1,3,0,10,0.67,,1,Absente,Non
+'Jeune fille',6,22.2,'Non fumeur',Non,'Une fois par jour',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',2,3,0,3,0,,2,Absente,Non
+'Jeune fille',6,16.7,'Non fumeur',Non,'Plusieurs fois par jour','Une fois par jour','Plusieurs fois par jour',Jamais,'1 fois par an',1,3,1,6,0,,2,Absente,Non
+Femme,15,20.3,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Plusieurs fois par semaine',Jamais,'1 fois par an',2,2,0,2,0.67,2,1,Absente,Non
+'Jeune fille',11,12.8,'Non fumeur',Non,'Une fois par jour',Occasionnellement,'Une fois par jour',Jamais,'1 fois par an',2,3,0,0,0,,1,Provoquees,Oui
+Homme,9,19.4,'Non fumeur',Non,'Une fois par jour','Plusieurs fois par semaine','Plusieurs fois par jour',Jamais,'1 fois par an',2,3,0,8,0,,2,Absente,Non
+Homme,5,16.1,'Non fumeur',Oui,'Plusieurs fois par semaine','Plusieurs fois par semaine',Occasionnellement,Jamais,,0,3,0,6,0,,3,Absente,Non
+'Jeune fille',5,13.2,'Non fumeur',Non,Occasionnellement,Occasionnellement,Jamais,Jamais,'1 fois par an',2,3,0,1,0,,0,Absente,Non
+Femme,25,22.4,'Non fumeur',Non,'Une fois par jour','Plusieurs fois par semaine',Jamais,'Plusieurs fois par semaine','2 3 fois par an',2,9,0,0,0,1,1,Absente,Non
+Homme,17,16.2,'Non fumeur',Non,'Une fois par jour','Plusieurs fois par jour','Une fois par jour',Jamais,'1 fois par an',3,4,0,3,0,,1,Absente,Non
+'Jeune fille',2,15.5,'Non fumeur',Non,Occasionnellement,Occasionnellement,Jamais,Jamais,'1 fois par an',2,3,0,0,0,,0,Absente,Non
+Homme,4,22.2,'Non fumeur',Non,'Une fois par jour',Occasionnellement,'Plusieurs fois par semaine',Jamais,'2 3 fois par an',2,4,0,5,0.67,,2,Absente,Non
+Homme,7,23.1,'Non fumeur',Oui,'Une fois par jour',Occasionnellement,'Une fois par jour',Jamais,'1 fois par an',2,3,0,0,0,,0,Absente,Non
+'Jeune fille',9,22.4,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Une fois par jour',Jamais,'1 fois par an',2,3,0,6,0.67,,1,Provoquees,Non
+Homme,12,13.7,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',2,3,0,0,0,,1,Absente,Non
+Homme,19,22.1,'Non fumeur',Non,'Une fois par jour',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',2,4,0,4,0.33,1,0,Provoquees,Non
+Homme,13,18.3,'Non fumeur',Non,'Une fois par jour',Occasionnellement,'Plusieurs fois par semaine',Jamais,'1 fois par an',2,4,0,0,1.33,,3,Absente,Non
+Homme,15,19,'Non fumeur',Non,'Une fois par jour','Plusieurs fois par semaine','Une fois par jour',Occasionnellement,'2 3 fois par an',1,3,0,5,0,,3,Provoquees,Non
+Femme,13,19.9,'Non fumeur',Non,'Une fois par jour',Occasionnellement,'Plusieurs fois par semaine',Jamais,'2 3 fois par an',2,2,0,5,0,,1,Absente,Non
+'Jeune fille',6,16.6,'Non fumeur',Oui,'Plusieurs fois par semaine',Occasionnellement,Jamais,Jamais,'1 fois par an',2,3,0,0,0,,0,Absente,Non
+Femme,15,24.9,'Non fumeur',Oui,'Une fois par jour',Occasionnellement,'Plusieurs fois par semaine',Jamais,Regulierement,1,4,0,0,0,,1,Absente,Non
+'Jeune fille',9,19.2,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Plusieurs fois par semaine',Jamais,Regulierement,3,2,0,3,0,,1,Absente,Non
+'Jeune fille',10,13.8,'Non fumeur',Non,Occasionnellement,Occasionnellement,Occasionnellement,Jamais,'1 fois par an',2,4,0,0,0,,0,Absente,Non
+'Jeune fille',10,14.4,'Non fumeur',Non,Occasionnellement,Occasionnellement,'Plusieurs fois par semaine',Jamais,'1 fois par an',2,3,0,0,0,,0,Absente,Non
+Homme,7,12.6,'Non fumeur',Non,'Une fois par jour','Une fois par jour',Occasionnellement,Jamais,'2 3 fois par an',2,5,0,1,0,,1,Absente,Non
+Femme,12,15.6,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,'1 fois par an',2,5,0,0,0.67,,2,Provoquees,Non
+Homme,17,21.2,'Non fumeur',Non,'Une fois par jour','Plusieurs fois par semaine','Une fois par jour',Occasionnellement,Jamais,2,2,0,0,1,,1,Provoquees,Non
+Femme,12,19.2,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Une fois par jour',Jamais,'2 3 fois par an',3,2,0,4,0,,1,Absente,Non
+Homme,68,26,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,'Plusieurs fois par jour','2 3 fois par an',4,1,0,12,0,0.97,1,Absente,Oui
+Homme,15,19.1,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Plusieurs fois par jour',Jamais,'1 fois par an',1,4,3,8,0.67,,3,Absente,Non
+Femme,14,20,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine',Occasionnellement,Jamais,'1 fois par an',3,6,0,0,0,,1,Absente,Non
+'Jeune fille',10,20.8,'Non fumeur',Non,'Une fois par jour','Plusieurs fois par jour','Une fois par jour',Jamais,Jamais,0,3,0,3,1.33,,3,Provoquees,Non
+'Jeune fille',6,16.5,'Non fumeur',Non,'Plusieurs fois par semaine',Jamais,Occasionnellement,Jamais,'1 fois par an',2,2,0,0,0,,1,Absente,Non
+Femme,18,19.6,'Non fumeur',Non,Occasionnellement,Occasionnellement,Occasionnellement,Jamais,'2 3 fois par an',3,5,0,2,0,,1,Absente,Non
+Homme,14,17.6,'Non fumeur',Non,'Plusieurs fois par jour','Plusieurs fois par jour','Plusieurs fois par jour',Jamais,'1 fois par an',0,1,0,5,1.33,,3,Provoquees,Non
+Homme,9,21.4,'Non fumeur',Non,'Une fois par jour','Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,'1 fois par an',2,3,0,4,0,,2,Absente,Non
+Femme,12,14.7,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,'1 fois par an',2,3,0,0,1.67,,1,Provoquees,Non
+Femme,15,19.5,'Non fumeur',Non,'Une fois par jour',Occasionnellement,'Plusieurs fois par semaine',Occasionnellement,'1 fois par an',2,4,0,3,0,,1,Absente,Non
+Femme,12,16.4,'Non fumeur',Non,'Plusieurs fois par semaine','Une fois par jour',Occasionnellement,Jamais,Jamais,4,2,0,0,0.67,,2,Provoquees,Non
+Homme,21,20.5,'Ancien fumeur plus de 6 mois',Non,'Plusieurs fois par jour','Plusieurs fois par jour','Plusieurs fois par jour','Plusieurs fois par semaine',Jamais,2,3,6,13,1,,1,Absente,Non
+Homme,68,25.4,'Non fumeur',Non,Occasionnellement,Occasionnellement,Jamais,Jamais,'2 3 fois par an',2,1,6,8,1,1.83,3,Absente,Non
+Homme,24,19.4,'Non fumeur',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'2 3 fois par an',4,,4,1,0,,0,Absente,Non
+Homme,26,25.5,'Non fumeur',Non,Occasionnellement,Occasionnellement,'Une fois par jour',Occasionnellement,'2 3 fois par an',2,3,0,1,0,,1,Absente,Oui
+Femme,62,23.8,'Ancien fumeur plus de 6 mois',Oui,'Plusieurs fois par jour','Plusieurs fois par jour',Jamais,Jamais,Regulierement,3,3,6,15,0,2.2,2,Absente,Oui
+Homme,43,25,'Actuel fumeur',Non,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'2 3 fois par an',3,8,5,13,1.33,,2,Absente,Oui
+Femme,57,30.1,'Non fumeur',Oui,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Occasionnellement,Regulierement,2,9,5,19,0.33,2.17,2,Absente,Oui
+Femme,62,29.7,'Non fumeur',Oui,Occasionnellement,Jamais,Jamais,Jamais,'1 fois par an',4,6,5,7,0,3.06,3,Absente,Oui
+Homme,41,27.1,'Actuel fumeur',Non,'Plusieurs fois par semaine',Jamais,'Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,2,9,5,0,0,1.38,1,Provoquees,Non
+Femme,48,23.8,'Actuel fumeur',Oui,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Occasionnellement,Regulierement,4,8,4,11,0,1,2,Provoquees,Non
+'Jeune fille',7,13,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',2,3,0,2,0,,1,Absente,Non
+Femme,16,22.3,'Non fumeur',Non,'Une fois par jour',Occasionnellement,Jamais,Jamais,'1 fois par an',2,3,0,0,0,,1,Absente,Non
+Homme,10,14,'Non fumeur',inconnu,'Une fois par jour','Une fois par jour',Occasionnellement,Jamais,'2 3 fois par an',2,1,0,2,0.33,,3,Absente,Non
+Homme,19,21.5,'Actuel fumeur',Non,Occasionnellement,'Plusieurs fois par semaine',Occasionnellement,'Plusieurs fois par semaine','1 fois par an',2,2,0,1,2,,1,Provoquees,Non
+Homme,16,36.3,'Non fumeur',Non,Occasionnellement,Occasionnellement,'Plusieurs fois par semaine',Jamais,'1 fois par an',2,1,0,1,1.67,,3,Provoquees,Oui
+Homme,17,18.7,'Actuel fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par jour',Occasionnellement,'1 fois par an',1,7,0,0,1.33,,2,Provoquees,Non
+Homme,20,20,'Actuel fumeur',inconnu,'Une fois par jour',Occasionnellement,Occasionnellement,Occasionnellement,'2 3 fois par an',2,2,0,1,0,,1,Absente,Non
+Homme,16,19,'Actuel fumeur',Non,Occasionnellement,Occasionnellement,'Plusieurs fois par jour',Occasionnellement,'1 fois par an',2,1,0,8,1.33,,3,Provoquees,Oui
+'Jeune fille',9,28,'Non fumeur',Oui,'Plusieurs fois par jour','Plusieurs fois par jour','Une fois par jour',Jamais,'1 fois par an',1,1,0,0,0,,1,Provoquees,Non
+Femme,15,19.1,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Jamais,'1 fois par an',1,2,0,3,0.33,,1,Absente,Non
+Homme,34,26.7,'Non fumeur',inconnu,'Plusieurs fois par jour','Plusieurs fois par jour','Plusieurs fois par jour','Plusieurs fois par jour',,0,,0,0,,,0,Absente,Non
+Femme,15,28.6,'Non fumeur',Non,Occasionnellement,Occasionnellement,Occasionnellement,Jamais,'1 fois par an',1,5,0,2,0,,1,Provoquees,Non
+Femme,20,17.2,'Actuel fumeur',Non,'Plusieurs fois par jour','Plusieurs fois par semaine','Une fois par jour',Jamais,'1 fois par an',2,1,0,1,0,,1,Absente,Non
+Homme,10,20.3,'Non fumeur',Non,'Plusieurs fois par jour',Occasionnellement,'Plusieurs fois par semaine',Jamais,'1 fois par an',1,5,0,3,0.67,,2,Absente,Non
+Femme,14,22.5,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine',Occasionnellement,Jamais,'2 3 fois par an',2,1,0,0,0,,1,Absente,Non
+Femme,78,29.1,'Ancien fumeur plus de 2 ans',Non,Occasionnellement,Occasionnellement,'Une fois par jour',Occasionnellement,'1 fois par an',4,6,12,7,1,3,3,'Correlees',Oui
+Femme,69,24.5,'Non fumeur',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'2 3 fois par an',4,2,6,16,1.4,0.61,2,Absente,Oui
+Homme,18,21.9,'Non fumeur',Oui,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',3,5,0,0,0,,0,Absente,Non
+Homme,16,18.9,'Non fumeur',Oui,'Plusieurs fois par semaine','Plusieurs fois par semaine',Jamais,Jamais,Regulierement,2,2,0,3,1.67,1.33,3,Absente,Oui
+Homme,15,25.2,'Non fumeur',Non,Occasionnellement,Occasionnellement,Occasionnellement,Jamais,Jamais,2,3,0,2,0,,1,Absente,Non
+Femme,12,15.2,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par jour',Jamais,'1 fois par an',2,7,0,0,0,,0,Absente,Non
+Femme,18,19.2,'Non fumeur',Non,'Plusieurs fois par semaine','Plusieurs fois par semaine','Plusieurs fois par jour',Jamais,'1 fois par an',2,,0,1,0,,0,Absente,Non
+Homme,61,20.2,'Actuel fumeur',Non,Occasionnellement,Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',0,1,17,7,0.67,3.81,3,Absente,Oui
+Homme,61,25.3,'Non fumeur',Non,Occasionnellement,Occasionnellement,Jamais,'Plusieurs fois par semaine','2 3 fois par an',3,4,5,16,1,0.94,3,Provoquees,Oui
+Femme,64,24,'Non fumeur',Non,'Plusieurs fois par semaine',Occasionnellement,Occasionnellement,Occasionnellement,'1 fois par an',2,4,3,9,1.67,1.61,1,Provoquees,Non
+Femme,57,31.6,'Non fumeur',Oui,'Plusieurs fois par semaine',Jamais,Jamais,Occasionnellement,'1 fois par an',3,5,7,6,1.33,1.22,2,Absente,Oui
+Femme,77,41.3,'Non fumeur',Oui,Occasionnellement,Occasionnellement,Jamais,Jamais,'1 fois par an',2,7,12,4,0.67,1.92,2,Provoquees,Oui
+Femme,40,25.8,'Actuel fumeur',Non,Occasionnellement,Occasionnellement,'Plusieurs fois par jour',Jamais,Jamais,2,2,13,19,2,1.08,3,Spontanees,Oui
