@@ -7,7 +7,7 @@ import numpy as np
 import os
 import pandas as pd
 
-def model(dir, depth, trees, l_r, col_s, sub_s, min_c, number_of_features, training_file_name, number_of_algs, clustering_measure):
+def model(dir, depth, trees, l_r, col_s, sub_s, min_c, seed_v, number_of_features, training_file_name, number_of_algs, clustering_measure):
     dataset_name_col = 'dataset'
     target_col = "performance"
     alg_col = "alg"
@@ -58,7 +58,7 @@ def model(dir, depth, trees, l_r, col_s, sub_s, min_c, number_of_features, train
             x_test[feature] = le.fit_transform(x_test[feature])
         gbm = xgb.XGBRegressor(max_depth=depth, learning_rate=l_r, n_estimators=trees,
                                objective='rank:pairwise',
-                               min_child_weight=min_c, colsample_bytree=col_s, subsample=sub_s, seed=123)
+                               min_child_weight=min_c, colsample_bytree=col_s, subsample=sub_s, seed=seed_v)
 
         gbm.fit(x_train, y_train)
         prediction = gbm.predict(x_test)
