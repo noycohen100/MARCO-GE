@@ -42,17 +42,17 @@ The available options are:
 
 Requirements
 -----
-python 3.6
-mst_clustering
-pandas
-networkx=2.4
-numpy=1.16.0
-xgboost
-sklearn_extensions
-openensembles
-scikit-learn=0.20.2
-dgl=0.4.3
-deepwalk
+- python 3.6
+- mst_clustering
+- pandas
+- networkx=2.4
+- numpy=1.16.0
+- xgboost
+- sklearn_extensions
+- openensembles
+- scikit-learn=0.20.2
+- dgl=0.4.3
+- deepwalk
 After installing deepwalk package, follow the instructions in: https://github.com/shun1024/weighted-deepwalk
 
 Citing
