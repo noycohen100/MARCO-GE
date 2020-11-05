@@ -86,6 +86,10 @@ def get_dataframes(datasets_folder):
     return all_csv_files
 
 def Graph_Representation(datasets_folder, EdgeLists_folder, NodesEmbedding_folder):
+    if not os.path.exists(EdgeLists_folder):
+        os.mkdir(EdgeLists_folder)
+    if not os.path.exists(NodesEmbedding_folder):
+        os.mkdir(NodesEmbedding_folder)
     dataframes = get_dataframes(datasets_folder)
     for dataset_path in dataframes:
         computation(dataset_path, EdgeLists_folder, NodesEmbedding_folder)
