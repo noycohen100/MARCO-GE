@@ -18,8 +18,9 @@ Usage
 
 **--em:** select clustering evaluation measure/s for evaluating the performance of the clustering algorithms.
 The available options are: 
-- average - computes the average ranking measure
-- all - computes 10 different clustering evaluation measures
+- average - computes the average ranking measure.
+- all - computes 10 different clustering evaluation measures.
+
 The evaluation's results are stored in the "Results" folder.
 
 **--mm:** select a clustering evaluation measure for training the meta-model
