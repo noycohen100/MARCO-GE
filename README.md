@@ -44,3 +44,8 @@ The available options are:
 Citing
 -----
 If you find MARCO-GE useful in your research. we ask that you cite the following paper:
+
+Acknowledgments
+-----
+The implementation of several clustering algorithms and clustering measures were taken from:
+https://github.com/ItayGabbay/ClusteringAlgorithmSelection
