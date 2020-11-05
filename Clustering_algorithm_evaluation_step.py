@@ -23,7 +23,6 @@ import json
 import numpy as np
 from scipy.stats import rankdata
 from multiprocessing import Pool
-from Utils.file_loader import get_dataframes, get_generated_dataframes
 import os
 import warnings
 warnings.filterwarnings("ignore", category=RuntimeWarning)
@@ -89,7 +88,7 @@ def get_rankings_per_index_final(measures,dataset_name):
         if not os.path.exists(results_dir +'/' + current_index):
             os.makedirs(results_dir +'/' + current_index)
         measure= np.array([m[current_index] for m in measures])
-        # saveResultsIndex(dataset_name,current_index+"_full", measure, results_dir)
+        saveResultsIndex(dataset_name,current_index+"_full", measure, results_dir)
         rank =rankdata(np.array([m[current_index] for m in measures]))
         rank = np.append(rank,dataset_name)
         save_path = os.path.join(os.getcwd(), results_dir,current_index,dataset_name.split('/')[-1])
@@ -99,11 +98,11 @@ def get_rankings_per_index_final(measures,dataset_name):
     max_internal_measure = ["SIL", "CH","DU", "BP","MC"]
     for i in range(0, len(max_internal_measure)):
         #Max index -> the values must be multiplied by -1 to achieve the correct order of the ratings
-        current_index = min_internal_measures[i]
+        current_index = max_internal_measure[i]
         if not os.path.exists(results_dir + '/' + current_index):
             os.makedirs(results_dir + '/' + current_index)
         measure = np.array([m[current_index] for m in measures])
-        # saveResultsIndex(dataset_name, current_index + "_full", measure, results_dir)
+        saveResultsIndex(dataset_name, current_index + "_full", measure, results_dir)
         rank = rankdata(-1* np.array([m[current_index] for m in measures]))
         rank = np.append(rank, dataset_name)
         save_path = os.path.join(os.getcwd(), results_dir, current_index, dataset_name.split('/')[-1])
@@ -125,6 +124,7 @@ def get_average_ranking(measures, dataset_name, write):
     ranks += rankdata(np.array([m['Xie'] for m in measures]))
     ranks += rankdata(np.array([m['Scat'] for m in measures]))
     ranks /= 10
+    ranks = rankdata(ranks)
     if write == True:
         header = ['dbscan', 'mst', 'SL', 'eac', 'khmeans', 'kmeans', 'psc', 'aa', 'ac', 'kmb', 'aw', 'kkm', 'fuzzy',
                   'dataset']
@@ -200,7 +200,7 @@ def get_dataframes(datasets_folder):
     return all_csv_files
 
 def Clustering_algorithm_evaluation(datasets_folder, clustering_measure):
-    dataframes = get_dataframes(dir)
+    dataframes = get_dataframes(datasets_folder)
     for file in dataframes:
         write_measures(file, clustering_measure)
 
