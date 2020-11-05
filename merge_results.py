@@ -11,7 +11,7 @@ def find_best_algorithm(clustering_measure):
         dataset_rankings_with_name = pd.read_csv(path + dataset, header=0)
         dataset_name = dataset.split('\\')[-1].split('.')[0]
         dataset_rankings = dataset_rankings_with_name.drop(columns=['dataset'], axis=1)
-        dataset_rankings = dataset_rankings.drop(columns=col_drop, axis=1).to_numpy()
+        dataset_rankings = dataset_rankings.drop(columns=col_drop, axis=1).values
         min_ranking = np.argmin(dataset_rankings)
         hist_algo[min_ranking] = hist_algo[min_ranking] + 1
         algorithm_performance_best_index[dataset_name] = min_ranking
@@ -30,7 +30,7 @@ def union_algorithms_performance(clustering_measure):
     else:
         path ='Results/' + clustering_measure + "_full/"
 
-    training_file_name = "training_" + clustering_measure
+    training_file_name = "training_" + clustering_measure+".csv"
     for dataset in sorted(os.listdir(path), key=lambda s: s.lower()):
         dataset_name = dataset.split('\\')[-1].split('.')[0]
         dataset_algorithms_perforamce = pd.read_csv(path+dataset, header=0)
@@ -39,3 +39,4 @@ def union_algorithms_performance(clustering_measure):
         algorithm_performance_index = algorithm_performance_index.append(dataset_algorithms_perforamce)
     # df = pd.DataFrame.from_records(algorithm_performance_index, columns=cols)
     algorithm_performance_index.to_csv(training_file_name, columns=cols)
+    return training_file_name
