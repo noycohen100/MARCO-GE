@@ -22,7 +22,7 @@ The available options are:
 - all - computes 10 different clustering evaluation measures
 The evaluation's results are stored in the "Results" folder.
 
-**mm:** select a clustering evaluation measure for training the meta-model
+**--mm:** select a clustering evaluation measure for training the meta-model
 The available options are:
 - average - computes the average ranking measure
 - BP = Bezdek-Pal
@@ -35,3 +35,12 @@ The available options are:
 - HL = Hubert-Levin
 - Scat = SD-Scat 
 - Xie = Xie-Ben
+
+**--ne:** number of epochs for training the GCNN model
+
+**--es:** the graph embedding size
+
+
+Citing
+-----
+If you find MARCO-GE useful in your research. we ask that you cite the following paper:
