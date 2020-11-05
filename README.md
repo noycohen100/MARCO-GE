@@ -1,5 +1,5 @@
 # MARCO-GE
-Marco-GE is a novel meta learning approach for clustering algorithm recommendation. 
+MARCO-GE is a novel meta learning approach for clustering algorithm recommendation. 
 
 
 Usage
