@@ -195,13 +195,13 @@ def davies_bouldin(dataset_values: DatasetValues):
 
 
 def XieBeni_score(dataset_values: DatasetValues):
-    data_array = dataset_values.data.to_numpy()
+    data_array = dataset_values.data.values
     xiB = internalIndex(len(dataset_values.unique_labels))
     xiB_score = xiB.xie_benie(data_array, dataset_values.cluster_labels)
     return xiB_score
 
 def Scat_score(dataset_values: DatasetValues):
-    data_array = dataset_values.data.to_numpy()
+    data_array = dataset_values.data.values
     s = internalIndex(len(dataset_values.unique_labels))
     Scat_s= s.Scat(data_array, dataset_values.cluster_labels)
     return Scat_s
