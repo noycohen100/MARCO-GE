@@ -73,12 +73,12 @@ def saveResultsIndex(dataset_name, index_name, measures, results_dir):
         os.makedirs(results_dir + '/' + index_name)
     save_path = os.path.join(os.getcwd(), results_dir, index_name,dataset_name.split('/')[-1])
     #json.dump(measures, open(save_path + ".json", 'w'))
-    header = ['dbscan', 'mst', 'SL', 'eac', 'khmeans', 'kmeans', 'psc', 'aa', 'ac', 'kmb', 'aw', 'kkm','fuzzy','dataset']
+    header = ['dbscan', 'mst', 'SL', 'eac', 'khm', 'km', 'psc', 'al', 'cl', 'mbk', 'wl', 'kkm','fc','dataset']
     df.to_csv(save_path+ ".csv", index=False, header=header)
 
 
 def get_rankings_per_index_final(measures,dataset_name):
-    header =['dbscan', 'mst', 'SL', 'eac', 'khmeans', 'kmeans', 'psc', 'aa','ac','kmb','aw','kkm','fuzzy','dataset']
+    header =['dbscan', 'mst', 'SL', 'eac', 'khm', 'km', 'psc', 'al','cl','mbk','wl','kkm','fc','dataset']
     min_internal_measures = ["DB", "HL","HKK", "Xie", "Scat"]
     results_dir = 'Results'
     if not os.path.exists(results_dir):
@@ -126,8 +126,7 @@ def get_average_ranking(measures, dataset_name, write):
     ranks /= 10
     ranks = rankdata(ranks)
     if write == True:
-        header = ['dbscan', 'mst', 'SL', 'eac', 'khmeans', 'kmeans', 'psc', 'aa', 'ac', 'kmb', 'aw', 'kkm', 'fuzzy',
-                  'dataset']
+        header = ['dbscan', 'mst', 'SL', 'eac', 'khm', 'km', 'psc', 'al','cl','mbk','wl','kkm','fc','dataset']
         results_dir = 'Results'
         measure="average"
         if not os.path.exists(results_dir):

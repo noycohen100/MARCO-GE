@@ -23,7 +23,7 @@ def find_best_algorithm(clustering_measure):
     return label_file_name
 
 def union_algorithms_performance(clustering_measure):
-    cols= ['dbscan', 'mst', 'SL', 'eac', 'khmeans', 'kmeans', 'psc','aa','ac','kmb','aw','kkm' ,'fuzzy','dataset']
+    cols= ['dbscan', 'mst', 'SL', 'eac', 'khm', 'km', 'psc', 'al','cl','mbk','wl','kkm','fc','dataset']
     algorithm_performance_index=pd.DataFrame(columns= cols)
     if clustering_measure == "average":
         path ='Results/'+ clustering_measure+"/"
