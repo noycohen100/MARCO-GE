@@ -55,7 +55,7 @@ def pca_calculation(dataframe):
     return principalComponents
 
 #Graph generation
-def buildGraph(cosin_similarities, data_set_name):
+def buildGraph(cosin_similarities, data_set_name, EdgeLists_folder):
     G = nx.from_numpy_array(cosin_similarities)
     filter = [(u, v, d) for (u, v, d) in G.edges(data=True) if (u < v and d['weight'] > 0.95 and u != v)]
     G_filter = nx.Graph(filter)
@@ -64,13 +64,13 @@ def buildGraph(cosin_similarities, data_set_name):
     return G_filter
 
 #PCA compuation -> COSINE similarity calculation -> Graph generation -> Nodes' embedding generation
-def computation(path):
+def computation(path,EdgeLists_folder, NodesEmbedding_folder):
     dataframe = pd.read_csv(path)
     f_name = path.split('\\')[-1].split('.')[0]
     dataframe = preprocess(dataframe)
     principalComponents = pca_calculation(dataframe)
     cos = cosine_similarity(principalComponents)
-    G = buildGraph(cos, f_name)
+    G = buildGraph(cos, f_name, EdgeLists_folder)
     print(f_name)
     path_in= os.path.join(EdgeLists_folder, f_name)
     path_out = os.path.join(NodesEmbedding_folder, f_name)
@@ -85,10 +85,10 @@ def get_dataframes(datasets_folder):
                      for file in glob(os.path.join(path, EXT))]
     return all_csv_files
 
-def Graph_Representation(datasets_folder):
+def Graph_Representation(datasets_folder, EdgeLists_folder, NodesEmbedding_folder):
     dataframes = get_dataframes(datasets_folder)
     for dataset_path in dataframes:
-        computation(dataset_path)
+        computation(dataset_path, EdgeLists_folder, NodesEmbedding_folder)
 
 
 
