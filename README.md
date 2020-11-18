@@ -60,6 +60,15 @@ Citing
 -----
 If you find MARCO-GE useful in your research. we ask that you cite the following paper:
 
+@misc{cohenshapira2020automatic,
+      title={Automatic selection of clustering algorithms using supervised graph embedding}, 
+      author={Noy Cohen-Shapira and Lior Rokach},
+      year={2020},
+      eprint={2011.08225},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
 Acknowledgments
 -----
 The implementation of several clustering algorithms and clustering measures were taken from:
