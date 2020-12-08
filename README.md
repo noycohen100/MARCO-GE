@@ -54,6 +54,7 @@ Requirements
 - scikit-learn=0.20.2
 - dgl=0.4.3
 - deepwalk
+- torch
 After installing deepwalk package, follow the instructions in: https://github.com/shun1024/weighted-deepwalk
 
 Citing
