@@ -1,1 +1,1 @@
-{"depth": 10, "trees": 100, "lr": 0.03, "col_s": 0.4, "sub_s": 0.8, "min_c": 4, "seed" : 0}
+{"depth": 6, "trees": 100, "lr": 0.03, "col_s": 0.2, "sub_s": 1, "min_c": 2, "seed" : 0}
